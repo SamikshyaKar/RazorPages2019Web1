@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RazorPages2019Web1.Models\RazorPages2019Web1.Models.csproj" />
+  </ItemGroup>
+
+</Project>
